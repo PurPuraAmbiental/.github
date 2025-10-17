@@ -1,10 +1,10 @@
-# 🌱 Purpura
+# PurPura 💜
 
-Bem-vindo ao repositório oficial da **Purpura**!
+## Sobre Nós
 
 Somos uma empresa com propósito ambiental e social, focada em transformar a maneira como empresas lidam com **resíduos orgânicos**. Nosso projeto tem como principal objetivo **criar uma plataforma digital para conectar empresas** que geram e que podem aproveitar resíduos orgânicos, promovendo o **networking sustentável e inteligente**.
 
-## 🚀 Sobre o Projeto
+## 🌱 Sobre o Projeto
 
 Este repositório contém o desenvolvimento do nosso site institucional e da plataforma de conexão entre empresas. Através dele, empresas poderão:
 
@@ -17,10 +17,9 @@ Estamos criando um **ambiente digital transparente e colaborativo**, voltado exc
 ## 🌿 Nossos Diferenciais
 
 - ♻️ **Foco exclusivo em resíduos orgânicos**: diferente de outras plataformas, nossa especialidade é conectar negócios dentro dessa cadeia sustentável.
-- 🤝 **Networking estratégico**: unimos quem tem com quem precisa — geradores e receptores de resíduos.
+- 🤝 **Networking**: unimos quem tem com quem precisa — geradores e reutilizadores de resíduos.
 - 💡 **Soluções inteligentes**: uso de tecnologia para facilitar conexões e negociações.
 - 🌍 **Compromisso ambiental**: cada parceria firmada é um passo em direção a um mundo mais limpo e consciente.
-- 🛠️ **Plataforma em desenvolvimento ativo**: atualizações constantes para melhorar a experiência dos usuários.
 
 ## 📦 Tecnologias Utilizadas
 
@@ -30,6 +29,7 @@ Estamos criando um **ambiente digital transparente e colaborativo**, voltado exc
 - PostgreSQL
 
 ## 🔧 Como Contribuir
+(...)
 
 ## 📫 Contato
 
